@@ -1,4 +1,3 @@
-````markdown
 # 🐇 RabbitMQ Publisher & Consumer (Python) + venv
 
 Este projeto demonstra como criar um **Publisher** e um **Consumer** simples usando **RabbitMQ** e **Python (pika)**, dentro de um ambiente virtual isolado (**venv**).
